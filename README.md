@@ -1,3 +1,7 @@
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá sou o Jhennerson!
+
+
+<hr />
 👨🏼‍🎓 &nbsp;Sou aluno do curso de Análise e Desenvolvimento de Sistemas no [Instituto Federal de São Paulo](http://gru.ifsp.edu.br) em Guarulhos.
 
 <br />
@@ -8,7 +12,7 @@
 </div>
 <br />
 
-👀 Meus interesses:
+👀 Meus interesses atuais são:
 <div style="display: inline_block">
 <img align="center" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C">
 <img align="center" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++">
@@ -23,7 +27,7 @@
 <br /><br /><br /><br />
 
 ✨Estou iniciando minha carreira como programador com grandes expectativas!✨
-
+<hr />
 <br />
 
 
