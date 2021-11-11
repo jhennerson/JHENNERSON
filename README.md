@@ -2,6 +2,7 @@
 
 
 <hr />
+
 👨🏼‍🎓 &nbsp;Sou aluno do curso de Análise e Desenvolvimento de Sistemas no [Instituto Federal de São Paulo](http://gru.ifsp.edu.br) em Guarulhos.
 
 <br />
@@ -26,7 +27,7 @@
 
 <br /><br /><br /><br />
 
-✨Estou iniciando minha carreira como programador com grandes expectativas!✨
+✨&nbsp;Estou iniciando minha carreira como programador com grandes expectativas!&nbsp;✨
 <hr />
 <br />
 
