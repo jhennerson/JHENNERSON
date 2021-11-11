@@ -3,7 +3,7 @@
 
 <hr />
 
-👨🏼‍🎓 &nbsp;Sou aluno do curso de Análise e Desenvolvimento de Sistemas no [Instituto Federal de São Paulo](http://gru.ifsp.edu.br) em Guarulhos.
+ <p>👨🏼‍🎓&nbsp;Sou aluno do curso de Análise e Desenvolvimento de Sistemas no <a href="http://gru.ifsp.edu.br" target="_blank">Instituto Federal de São Paulo</a> em Guarulhos.</p>
 
 <br />
   
@@ -27,9 +27,9 @@
 
 <br /><br /><br /><br />
 
-✨&nbsp;Estou iniciando minha carreira como programador com grandes expectativas!&nbsp;✨
+<p>✨&nbsp;Estou iniciando minha carreira como programador com grandes expectativas!&nbsp;✨</p>
 <hr />
 <br />
 
 
-<a align="center" href="https://www.linkedin.com/in/jhennerson-barbosa-b9672a20b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link/" target="_blank" width="125" alt="LinkedIn" title="Meu LinkedIn"/></a>
+<a align="left" href="https://www.linkedin.com/in/jhennerson-barbosa-b9672a20b" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link/" target="_blank" width="125" alt="LinkedIn" title="Meu LinkedIn"/></a>
