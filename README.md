@@ -11,7 +11,6 @@
 <img align="right" src="https://user-images.githubusercontent.com/92925449/141186531-54a19d83-e69a-4431-b07c-6c42be12bd70.png" alt="IF" title="Instituto Federal"/>
 <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api?username=jhennerson&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
 </div>
-<br />
 
 👀 Meus interesses atuais são:
 <div style="display: inline_block">
