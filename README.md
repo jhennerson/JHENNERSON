@@ -1,6 +1,3 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá sou o Jhennerson!
-
-
 <hr />
 
  <p>👨🏼‍🎓&nbsp;Sou aluno do curso de Análise e Desenvolvimento de Sistemas no <a href="http://gru.ifsp.edu.br" target="_blank">Instituto Federal de São Paulo</a> em Guarulhos.</p>
@@ -22,6 +19,7 @@
 <img align="center" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />
 <img align="center" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" />
 <img align="center" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" />
+<img align="center" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP" />
 
 <br /><br /><br /><br />
 
