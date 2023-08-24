@@ -8,15 +8,6 @@
 <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api?username=jhennerson&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
 </div>
 
-👀 Meus interesses atuais são:
-<div style="display: inline_block">
-<img align="center" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" />
-<img align="center" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" />
-<img align="center" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" title="Arduino" />
-<img align="center" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" title="Lua" />
-<img align="center" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />
-<img align="center" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP" />
-
 <br /><br /><br /><br />
 
 <p>✨&nbsp;Estou iniciando minha carreira como programador com grandes expectativas!&nbsp;✨</p>
